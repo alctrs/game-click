@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+     "name": "Tasmanian Devil",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/220px-Taz-Looney_Tunes.svg.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Tweety",
+    "image": "https://i.pinimg.com/originals/b9/e5/c0/b9e5c05250f794c70082cd54de6afe6c.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Martian",
+    "image": "https://assets.pinshape.com/uploads/image/file/29242/marvin-the-martian-ray-gun-3d-printing-29242.gif",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Sepeedy",
+    "image": "https://vignette.wikia.nocookie.net/looneytunes/images/4/46/SpeedyGonzales.png/revision/latest?cb=20180519155226",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Granny",
+    "image": "http://t5.rbxcdn.com/c2fecab6a29a0f1fcb31de2b51023838",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Duck",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Silvester",
+    "image": "https://orig00.deviantart.net/07fa/f/2016/356/4/f/sylvester_the_cat_by_domejohnny-dasjstz.png",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Jonny",
+    "image": "https://pre00.deviantart.net/f0b2/th/pre/i/2017/104/3/5/yosemite_sam_by_4eyez95-db5tspa.png",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Lola",
+    "image": "https://www.wbkidsgo.com/Portals/4/Images/Content/Characters/Lola%20Bunny/characterArt-lola-LT.png",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Roadner",
+    "image": "https://orig00.deviantart.net/bfe9/f/2011/105/2/2/the_road_runner_by_ksbansal-d3e2e5g.png",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]

@@ -6,8 +6,27 @@
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
+  background-image: url("http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i24/ppg_bg_1600x300.jpg") top center no-repeat;
+  background: #AC0377;
+  
+
 }
+
+
 
 .centernavitem {
   padding-right: 30px;
 }
+
+.navbar-brand {
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+
+.bg-light {
+  background-color: antiquewhite;
+}
+
+
+

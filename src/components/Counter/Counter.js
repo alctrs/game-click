@@ -1,4 +1,5 @@
 import React from "react";
+import "./counter.css";
 
 // By extending the React.Component class, Counter inherits functionality from it
 class Counter extends React.Component {

@@ -14,9 +14,9 @@ class App extends Component {
     friends: friends
   };
 
-  removeFriend = id => {
+  clickFriend = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
-    const friends = this.state.friends.filter(friend => friend.id !== id);
+    //const friends = this.state.friends.filter(friend => friend.id !== id);
     // Set this.state.friends equal to the new friends array
     this.setState({ friends });
   };
@@ -37,10 +37,10 @@ class App extends Component {
       <Wrapper>
         <Nav/>
         <Counter/>
-        <Title>Friends List</Title>
+        <Title>Sugar-Spice and everything Nice!</Title>
         {this.state.friends.map(friend => (
           <FriendCard
-            removeFriend={this.removeFriend}
+            clickFriend={this.clickFriend}
             id={friend.id}
             key={friend.id}
             name={friend.name}

@@ -1,7 +1,10 @@
 import React from "react";
 import "./Nav.css";
 
-const Nav = () => (
+const Nav = (props) => (
+
+  
+
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="#">
         Clicky Game

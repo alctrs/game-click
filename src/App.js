@@ -29,8 +29,15 @@ class App extends Component {
   this.setState({ count: this.state.count - 1 });
  };
 
-
-
+//suffleArray 
+//  shuffleArray = (array) => {
+//   let imgArray = Img;
+//   for (let i = imgArray.length - 1; i > 0; i--) {
+//     let j = Math.floor(Math.random() * (i + 1));
+//     [imgArray[i], imgArray[j]] = [imgArray[j], imgArray[i]];
+//   }
+//   return imgArray
+// }
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (

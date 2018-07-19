@@ -12,21 +12,28 @@
 
 }
 
+.nav-item {
+  padding-right:  30px;
+  color: #FF5722;
+}
 
 
 .centernavitem {
   padding-right: 30px;
+  color: #FF5722;
 }
 
 .navbar-brand {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration-color: azure;
   
 }
 
 
-bg-light {
-  background-color: antiquewhite;
+.bg-light {
+  background-color: #e6cccc00!important;
 }
 
-
-
+.navbar-light .navbar-brand {
+  color: #FF5722;
+}

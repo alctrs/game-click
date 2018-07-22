@@ -2,7 +2,7 @@
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  padding: 20px;
+  padding: 8px;
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
@@ -13,19 +13,21 @@
 }
 
 .nav-item {
-  padding-right:  30px;
-  color: #FF5722;
+  padding-top:  130px;
+  color: #AC0377;
+  font-weight: 900;
 }
 
 
 .centernavitem {
-  padding-right: 30px;
-  color: #FF5722;
+  padding-right: 60px;
+  color: whitesmoke;
+  font-weight: 900;
 }
 
 .navbar-brand {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-decoration-color: azure;
+  text-decoration-color: blue;
   
 }
 
@@ -36,4 +38,5 @@
 
 .navbar-light .navbar-brand {
   color: #FF5722;
+  font-weight: 900;
 }
